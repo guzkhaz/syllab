@@ -1,0 +1,209 @@
+body{
+    font-family: "Montserrat SemiBold";
+}
+nav{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 42px;
+}
+.nav_1{
+    background-color: #D6F5FF;
+    width: 288px;
+    height: 40px;
+    border: dashed #6BB7FF;
+    border-radius: 15px;
+    font-size: 24px;
+    font-weight: bold;
+}
+.nav_2{
+    background-color: #ffd6d6;
+    width: 288px;
+    height: 40px;
+    border: dashed #ff6b6b;
+    border-radius: 15px;
+    font-size: 24px;
+    font-weight: bold;
+}
+.nav_3{
+    background-color: #dbffd6;
+    width: 288px;
+    height: 40px;
+    border: dashed #86ff6b;
+    border-radius: 15px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+}
+
+.a_1{
+    color: #6BB7FF;
+}
+.a_2{
+    color: #ff6b6b;
+}
+.a_3{
+    color: #86ff6b;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.letters{
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 60px
+}
+.letter{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+#consonant{
+    width: 200px;
+    height: 200px;
+    background: #D6F5FF;
+    color: #6BB7FF;
+    border: solid #6BB7FF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 16px;
+    font-family: "Montserrat SemiBold";
+    font-size: 100px;
+}
+#consonant1{
+    width: 200px;
+    height: 200px;
+    background: #D6F5FF;
+    color: #6BB7FF;
+    border: solid #6BB7FF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 16px;
+    font-family: "Montserrat SemiBold";
+    font-size: 100px;
+}
+#consonant2{
+    width: 200px;
+    height: 200px;
+    background: #D6F5FF;
+    color: #6BB7FF;
+    border: solid #6BB7FF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 16px;
+    font-family: "Montserrat SemiBold";
+    font-size: 100px;
+}
+img{
+    width: 70px;
+    height: 70px;
+    margin: 0;
+    padding: 0;
+}
+#consonantUp{
+    margin-bottom: 20px;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    height: 70px;
+    border: none;
+    background: none;
+}
+
+#consonantDown{
+    margin-top: 20px;
+    padding: 0;
+    width: 200px;
+    height: 70px;
+    border: none;
+    background: none;
+}
+#consonantUp1{
+    margin-bottom: 20px;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    height: 70px;
+    border: none;
+    background: none;
+}
+
+#consonantDown1{
+    margin-top: 20px;
+    padding: 0;
+    width: 200px;
+    height: 70px;
+    border: none;
+    background: none;
+}
+#consonantUp2{
+    margin-bottom: 20px;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    height: 70px;
+    border: none;
+    background: none;
+}
+
+#consonantDown2{
+    margin-top: 20px;
+    padding: 0;
+    width: 200px;
+    height: 70px;
+    border: none;
+    background: none;
+}
+
+
+#vowel{
+    width: 200px;
+    height: 200px;
+    border: solid #ff6b6b;
+    background: #ffd6d6;
+    color: #ff6b6b;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 16px;
+    font-family: "Montserrat SemiBold";
+    font-size: 100px;
+}
+#vowelUp{
+    margin-bottom: 20px;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    height: 70px;
+    border: none;
+    background: none;
+}
+
+#vowelDown{
+    margin-top: 20px;
+    padding: 0;
+    width: 200px;
+    height: 70px;
+    border: none;
+    background: none;
+}
+
+@font-face {
+font-family: "Montserrat SemiBold";
+src: url("../fonts/static/Montserrat-SemiBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
